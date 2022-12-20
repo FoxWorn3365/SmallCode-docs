@@ -55,6 +55,8 @@
     "random"
   ],
   "language":[
+    "var",
+    "module",
     "type",
     "string",
     "array",
