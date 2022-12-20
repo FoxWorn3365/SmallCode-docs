@@ -56,9 +56,9 @@
   ],
   "language":[
     "var",
-    "string",
     "module",
     "type",
+    "method",
     "string",
     "array",
     "json",
