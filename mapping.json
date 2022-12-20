@@ -41,7 +41,7 @@
     "HTTP.get",
     "HTTP.post",
     "session.manager",
-    "session.manager.inizialize",
+    "session.manager.initialize",
     "session.manager.kill",
     "session.manager.set",
     "session.manager.get",
@@ -61,7 +61,6 @@
     "method",
     "string",
     "array",
-    "json",
-    "type_2"
+    "json"
   ]
 }
