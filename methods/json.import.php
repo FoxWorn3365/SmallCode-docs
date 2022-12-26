@@ -7,7 +7,7 @@
      <code>
      json.import(
         <a href='/docs/language/string' class='g'>string</a> <r>only formatted json</r> <lb>jsonInString</lb>
-     ) <gg>return: <a href='/docs/language/array'>array</a></gg>
+     ) <gg>return: null</gg>
      </code>
     </pre>
     <br><br>
@@ -16,7 +16,9 @@
      <code>
      define test string '{"ilove":"pizza", "ilike":"PHP"}'
 
-     get arrayJson from method json.import(test)
+     method json.import(test)
+     
+     // test now is an array
      </code>
     </pre>
    </div>
