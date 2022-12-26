@@ -7,7 +7,7 @@
      <code>
      json.export(
         <a href='/docs/language/array' class='g'>array</a> <lb>array</lb>
-     ) <gg>return: <a href='/docs/language/string'>string</a></gg>
+     ) <gg>return: null</gg>
      </code>
     </pre>
     <br><br>
@@ -16,7 +16,9 @@
      <code>
      define test array |ilove of 'pizza' && ilike 'PHP'|
 
-     get stringJson from method json.export(test)
+     from method json.export(test)
+     
+     // Now test is a string
      </code>
     </pre>
    </div>
