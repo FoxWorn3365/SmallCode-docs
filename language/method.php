@@ -1,6 +1,7 @@
 <?php require 'assets/header.php'; ?>
    <div id='lan-mth' class='doc'>
     <h1>Language: Methods</h1>
+    <i>You can define a method: watch <a href='/docs/functions/make'>make</a></i>.<br><br>
     Unlike other programming languages ​​SmallCode offers methods instead of functions.
     They are practically the exact same thing but are handled differently by the SmallCode functions (those in the "Functions" section in the search bar) and often interact with each other.
     <h3>How to use a method</h3>
