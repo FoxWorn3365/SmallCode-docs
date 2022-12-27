@@ -16,7 +16,8 @@
     "call",
     "parse",
     "quit",
-    "make"
+    "make",
+    "link"
   ],
   "methods":[
     "array",
