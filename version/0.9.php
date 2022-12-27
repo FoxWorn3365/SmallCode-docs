@@ -11,7 +11,7 @@
     <code>
     make method fox.greet(name) 
       import n from method value name
-      combine (n) [Hello, my name is {0}!] the result
+      combine (n) [Hello, my name is {0}!] then result
       print result
     end
     
