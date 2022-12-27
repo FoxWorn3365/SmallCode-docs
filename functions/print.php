@@ -4,14 +4,21 @@
     Print a variable to screen. It doesn't stop the execution.<br><br>
     <h2>Example:</h2>
     <code>
-    print <a href='/docs/language/type'>[var|string]</a> [VAR/STRING] (based on type)
+    print [VAR/STRING/METHOD]
     </code>
     <br><br>
     <h4>Code examples</h4>
     <pre>
      <code>
     // Print a string
-    print string 'hi developer!'
+    print 'hi developer!'
+    define a string 'federico'
+    
+    // Print a var
+    print a
+    
+    // Print a method
+    print method array.getValue(array, 'uwu')
      </code>
     </pre>
    </div>
