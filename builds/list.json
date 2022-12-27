@@ -1,0 +1,35 @@
+[
+  {
+    "type":"build",
+    "is":"relase",
+    "success":true,
+    "error":null,
+    "name":"build relase 0.9 RELASE",
+    "id":"003",
+    "file":"smallcode.php",
+    "changes":"Test: adding definible methods -> success",
+    "author":"FoxWorn3365"
+  }
+  {
+    "type":"build",
+    "is":"beta",
+    "success":true,
+    "error":null,
+    "name":"build pretest for 0.9",
+    "id":"002",
+    "file":"smallcode.php",
+    "changes":"Test: test pointer with vars",
+    "author":"FoxWorn3365"
+  }
+  {
+    "type":"build",
+    "is":"alpha",
+    "success":false,
+    "error":"The variable by itself was not tracked",
+    "name":"build pretest for 0.9",
+    "id":"002",
+    "file":"smallcode.php",
+    "changes":"Experimenting with variable-oriented methods",
+    "author":"FoxWorn3365"
+  }
+]
