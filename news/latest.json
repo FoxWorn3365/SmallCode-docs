@@ -1,0 +1,20 @@
+{
+  "info":{
+    "date":"27/12/2022 - 23:42",
+    "author":"FoxWorn3365",
+    "role":"SmallCode Founder",
+    "title":"SmallCode v0.9 is now out!",
+    "tags":["relase","smallcode"],
+    "text":"Finally after a long time the v0.9 version as well as the first version of SmallCode is officially out. This is the first complete release, thanks to the month of work behind the stability and speed of SmallCode and obviously also 'designing' the language was not a trivial matter since it had to be done differently from other programming languages. Having said that, it is now possible to download SmallCode v0.9 using the buttons below this news and of course report any bugs on the official SmallCode repository",
+    "buttons":[
+      {
+        "text":"Download SmallCode v0.9",
+        "link":"/download"
+      },
+      { 
+        "text":"GitHub Repository",
+        "link":"https://github.com/FoxWorn3365/SmallCode"
+      }
+    ]
+  }
+}
