@@ -79,6 +79,7 @@
     "string",
     "array",
     "json",
-    "active var"
+    "active var",
+    "pointer"
   ]
 }
