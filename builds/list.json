@@ -9,7 +9,7 @@
     "file":"smallcode.php",
     "changes":"Test: adding definible methods -> success",
     "author":"FoxWorn3365"
-  }
+  },
   {
     "type":"build",
     "is":"beta",
@@ -20,7 +20,7 @@
     "file":"smallcode.php",
     "changes":"Test: test pointer with vars",
     "author":"FoxWorn3365"
-  }
+  },
   {
     "type":"build",
     "is":"alpha",
