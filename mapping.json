@@ -33,7 +33,7 @@
     "file.copy",
     "file.rename",
     "file.move",
-    "file.delete"
+    "file.delete",
     "dir",
     "dir.create",
     "dir.delete",
