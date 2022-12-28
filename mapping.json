@@ -18,7 +18,8 @@
     "quit",
     "make",
     "link",
-    "wait"
+    "wait",
+    "event"
   ],
   "methods":[
     "array",
@@ -83,6 +84,7 @@
     "json",
     "active var",
     "pointer",
-    "event"
+    "event",
+    "config"
   ]
 }
