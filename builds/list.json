@@ -1,5 +1,17 @@
 [
   {
+    "date":"18/12/2022 - 20:13",
+    "type":"build",
+    "is":"dev",
+    "success":false,
+    "error":"ERROR: SmallCode can't detect sync events with the function",
+    "name":"updating 0.9 for v1.0",
+    "id":"006",
+    "file":"smallcode.php",
+    "changes":"Added async check function",
+    "author":"FoxWorn3365"
+  },
+  {
     "date":"18/12/2022 - 19:43",
     "type":"build",
     "is":"dev",
