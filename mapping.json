@@ -17,7 +17,8 @@
     "parse",
     "quit",
     "make",
-    "link"
+    "link",
+    "wait"
   ],
   "methods":[
     "array",
