@@ -19,7 +19,8 @@
     "make",
     "link",
     "wait",
-    "event"
+    "event",
+    "config"
   ],
   "methods":[
     "array",
