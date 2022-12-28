@@ -1,4 +1,15 @@
 [
+    {
+    "type":"build",
+    "is":"dev",
+    "success":true,
+    "error":null,
+    "name":"updating 0.9 for v1.0",
+    "id":"004",
+    "file":"smallcode.php",
+    "changes":"Adding sleep functions as 'wait'",
+    "author":"FoxWorn3365"
+  },
   {
     "type":"build",
     "is":"relase",
