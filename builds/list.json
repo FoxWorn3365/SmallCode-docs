@@ -1,5 +1,17 @@
 [
   {
+    "date":"29/12/2022 - 32:15",
+    "type":"build",
+    "is":"dev",
+    "success":true,
+    "error":null,
+    "name":"updating 0.9 for v1.0",
+    "id":"007",
+    "file":"smallcode.php",
+    "changes":"Added string manipulation method",
+    "author":"FoxWorn3365"
+  },
+  {
     "date":"29/12/2022 - 00:53",
     "type":"build",
     "is":"dev",
