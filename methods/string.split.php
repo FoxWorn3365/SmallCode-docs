@@ -6,20 +6,18 @@
     <pre>
      <code>
      string.replace(
-        <a href='/docs/dis/string_var' class='g'>string|var</a> <lb>oldChar</lb>,
-        <a href='/docs/dis/string_var' class='g'>string|var</a> <lb>newChar</lb>,
+        <a href='/docs/dis/string_var' class='g'>string|var</a> <lb>splitChar</lb>,
         <a href='/docs/dis/string_var' class='g'>string|var</a> <lb>string</lb>
-     ) <gg>return: <a href='/docs/language/string'>string</a></gg>
+     ) <gg>return: <a href='/docs/language/array'>array</a></gg>
      </code>
     </pre>
     <br><br>
     <h3>Example</h3>
     <pre>
      <code>
-     define text string 'At first I was afraid, I was petrified'
-     define new string 'scared'
+     define text string 'I`ve got all my life to live, and I`ve got all my love to give'
   
-     print method string.replace('afraid', new, text) // Output: At first I was scared, I was petrified
+     get splitted from method string.split('`', text) // Output: Array: [0] => 'I', [1] => 've got all my life to live, and I', [2] => 've got all my love to give'
      </code>
     </pre>
    </div>
