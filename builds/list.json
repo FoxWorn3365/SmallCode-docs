@@ -1,12 +1,24 @@
 [
   {
-    "date":"29/12/2022 - 32:15",
+    "date":"30/12/2022 - 00:02",
     "type":"build",
     "is":"dev",
     "success":true,
     "error":null,
     "name":"updating 0.9 for v1.0",
-    "id":"007",
+    "id":"009",
+    "file":"smallcode.php",
+    "changes":"Added header manipulation method",
+    "author":"FoxWorn3365"
+  },
+  {
+    "date":"29/12/2022 - 23:15",
+    "type":"build",
+    "is":"dev",
+    "success":true,
+    "error":null,
+    "name":"updating 0.9 for v1.0",
+    "id":"008",
     "file":"smallcode.php",
     "changes":"Added string manipulation method",
     "author":"FoxWorn3365"
