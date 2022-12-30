@@ -1,5 +1,17 @@
 [
   {
+    "date":"30/12/2022 - 05:12",
+    "type":"build",
+    "is":"dev",
+    "success":true,
+    "error":null,
+    "name":"updating 0.9 for v1.0",
+    "id":"009",
+    "file":"smallcode.php",
+    "changes":"Reworked loop as methods and optimized it",
+    "author":"FoxWorn3365"
+  },
+  {
     "date":"30/12/2022 - 00:02",
     "type":"build",
     "is":"dev",
