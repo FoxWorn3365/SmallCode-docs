@@ -93,6 +93,7 @@
     "active var",
     "pointer",
     "event",
-    "config"
+    "config",
+    "loop"
   ]
 }
