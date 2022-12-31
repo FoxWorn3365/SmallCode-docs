@@ -20,7 +20,8 @@
     "link",
     "wait",
     "event",
-    "config"
+    "config",
+    "math"
   ],
   "methods":[
     "array",
