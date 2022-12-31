@@ -1,5 +1,23 @@
 [
   {
+    "date":"31/12/2022 - 23:28",
+    "author":"FoxWorn3365",
+    "role":"SmallCode Founder",
+    "title":"We are near the relase of v1.0",
+    "tags":["pre-relase","smallcode","v1.0","near-relase"],
+    "text":"It has been a while since SmallCode has been in development and, in some, albeit rare, cases it is also in production. During all this time, as you can see from GitHub, we have not been idle but have continued to update the language, making it more stable, resilient and complete. In fact, to celebrate the release of v1.0 I also implemented... drum roll the new statements. Now if, else, and elseif are better managed and I removed about 20 global variables, all now reduced to simple objects where necessary. Another interesting feature was the implementation of the possibility to use 'storage' for variables different from the default one. Small spoiler: v1.0 will be released with a beautiful included package manager, so you will finally be able to create packages for smallcode. I wish you a good evening. -Fox",
+    "buttons":[
+      {
+        "text":"See SmallCode Examples",
+        "link":"/examples/main"
+      },
+      { 
+        "text":"Dev Branch on GitHub",
+        "link":"https://github.com/FoxWorn3365/SmallCode/tree/dev"
+      }
+    ]
+  },
+  {
     "date":"27/12/2022 - 23:42",
     "author":"FoxWorn3365",
     "role":"SmallCode Founder",
