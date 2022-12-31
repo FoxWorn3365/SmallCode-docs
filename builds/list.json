@@ -1,5 +1,17 @@
 [
   {
+    "date":"31/12/2022 - 20:33",
+    "type":"build",
+    "is":"dev",
+    "success":true,
+    "error":null,
+    "name":"updating 0.9 for v1.0",
+    "id":"012",
+    "file":"smallcode.php",
+    "changes":"Complex math functions and type added",
+    "author":"FoxWorn3365"
+  },
+  {
     "date":"31/12/2022 - 20:06",
     "type":"build",
     "is":"dev",
