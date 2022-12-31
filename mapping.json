@@ -32,6 +32,8 @@
     "array.print",
     "loop",
     "loop.getValue",
+    "loop.localStorage.set",
+    "loop.localStorage.get",
     "file",
     "file.get",
     "file.write",
