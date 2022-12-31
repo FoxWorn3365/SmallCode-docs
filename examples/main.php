@@ -5,4 +5,6 @@
     <h2>List</h2>
     <div class='aligned-at-1'>
      <a href='/docs/examples/authentication-with-an-external-api'>Authentication with SmallCode and external API</a><br>
-     <a href='/docs
+     <a href='/docs/examples/explode-var-and-loop'>Explode var and loop</a>
+    </div>
+   </div>
