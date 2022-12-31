@@ -17,7 +17,7 @@
      define myArray array |......  ..... |
   
      for each myArray
-       method loop.localStorage.set('uwu', 'aaa')
+       get var from method loop.localStorage.set('uwu')
      break
      </code>
     </pre>
