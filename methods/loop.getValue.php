@@ -16,7 +16,7 @@
      <code>
      define myArray array |hello of 'hello' && uwu of 'mm'|
   
-     for each (myArray per type) then
+     for each myArray
        get value from method loop.getValue('value') // Return (in the first iteration): hello, in the second: mm
      break
      </code>
