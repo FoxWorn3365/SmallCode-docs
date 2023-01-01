@@ -9,7 +9,7 @@
     "buttons":[
       {
         "text":"See SmallCode Examples",
-        "link":"/examples/main"
+        "link":"/docs/examples/main"
       },
       { 
         "text":"Dev Branch on GitHub",
