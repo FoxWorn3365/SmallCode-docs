@@ -1,5 +1,17 @@
 [
   {
+    "date":"21/02/2023 - 16:05",
+    "type":"build",
+    "is":"dev",
+    "success":true,
+    "error":null,
+    "name":"repairing some bugs",
+    "id":"014",
+    "file":"smallcode.php",
+    "changes":"Added functions for debug (debug, methoddebug)",
+    "author":"FoxWorn3365"
+  },
+  {
     "date":"31/12/2022 - 20:33",
     "type":"build",
     "is":"dev",
