@@ -1,5 +1,17 @@
 [
   {
+    "date":"24/02/2023 - 00:06",
+    "type":"build",
+    "is":"dev",
+    "success":true,
+    "error":null,
+    "name":"Libraries now here",
+    "id":"015",
+    "file":"smallcode.php",
+    "changes":"Added libraries support for SmallCode",
+    "author":"FoxWorn3365"
+  },
+  {
     "date":"21/02/2023 - 16:05",
     "type":"build",
     "is":"dev",
