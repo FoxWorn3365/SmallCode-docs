@@ -1,5 +1,23 @@
 [
   {
+    "date":"24/02/2023 - 00:10",
+    "author":"FoxWorn3365",
+    "role":"SmallCode Founder",
+    "title":"We are almost at v1.0!",
+    "tags":["pre-relase","smallcode","v1.0","near-relase"],
+    "text":"I didn't believe it either, but after a month or so of downtime, I went back to developing this programming language for various reasons. However I am here to tell you that I have finally implemented decent library management that turns out to be similar to methods. The libraries will have to be written in PHP but can obviously be used in SmallCode. I have already updated the documentation, you will know more shortly  -Fox",
+    "buttons":[
+      {
+        "text":"SmallCode Lib Examples",
+        "link":"/docs/examples/main"
+      },
+      { 
+        "text":"Dev Branch on GitHub",
+        "link":"https://github.com/FoxWorn3365/SmallCode/tree/dev"
+      }
+    ]
+  },
+  {
     "date":"31/12/2022 - 23:28",
     "author":"FoxWorn3365",
     "role":"SmallCode Founder",
