@@ -21,7 +21,9 @@
     "wait",
     "event",
     "config",
-    "math"
+    "math",
+    "lib_manager",
+    "lib"
   ],
   "methods":[
     "array",
@@ -107,6 +109,7 @@
     "pointer",
     "event",
     "config",
-    "loop"
+    "loop",
+    "lib"
   ]
 }
