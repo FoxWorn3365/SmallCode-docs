@@ -1,11 +1,11 @@
 <?php require 'assets/header.php'; ?>
    <div id='example' class='doc highlight'>
-    <h1>Creating a LIB with PHP and use it with SmallCode/h1>
+    <h1>Creating a LIB with PHP and use it with SmallCode</h1>
      Author: <a href='https://github.com/FoxWorn3365'>FoxWorn3365</a>.<br>
-    <h2>1 | PHP Part/h2>
+    <h2>1 | PHP Part</h2>
     <div class='aligned-at-1'>
       <pre><code class='borders'>
-<?php
+&lt;?php
 class MyUsefulLib {
   public function http_request(array $args) {
     return json_decode(file_get_contents($args[0]));
@@ -15,7 +15,6 @@ class MyUsefulLib {
     echo $args[0];
   }
 }
-?>
       </code></pre>
     </div>
     <h2>2 | SmallCode part</h2>
