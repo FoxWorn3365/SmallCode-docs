@@ -18,7 +18,7 @@
      <code>
      define number1 int 20
 
-     get res from method math.operation(ciao, '+', '10')
+     get res from method math.operation(number1, '+', '10')
      print res                // Output: 30
      </code>
     </pre>
