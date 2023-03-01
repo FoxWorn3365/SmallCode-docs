@@ -18,6 +18,7 @@
     "quit",
     "make",
     "link",
+    "unlink",
     "wait",
     "event",
     "config",
