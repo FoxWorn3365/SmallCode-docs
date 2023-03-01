@@ -1,10 +1,10 @@
 <?php require 'assets/header.php' ?>
    <div id='get' class='doc'>
     <h1>get</h1>
-    Get a variable from a <a href='/docs/language/method'>method</a>. You can use only for <a href='/docs/language/method'>methods</a>.<br><br>
+    Get a variable from a <a href='/docs/language/method'>method</a> or a <a href='/docs/language/lib'>library</a>.<br><br>
     <h2>Example:</h2>
     <code>
-    get <a href='/docs/language/var'>[VAR]</a> from method <a href='/docs/language/method'>[METHOD]</a>
+    get <a href='/docs/language/var'>[VAR]</a> from [<a href='/docs/language/method'>method</a>|<a href='/docs/language/lib'>lib</a>] <a href='/docs/language/method'>[METHOD]</a>
     </code>
     <br><br>
     <h4>Code examples</h4>
@@ -15,6 +15,9 @@
     
     // Get an array value
     get arrayValue from array myArray.myValue
+    
+    // Do something with the library FoxUtils
+    get responseValue from lib FoxUtils.doSomething('fox is beautiful', 'no u')
      </code>
     </pre>
    </div>
