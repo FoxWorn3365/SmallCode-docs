@@ -8,7 +8,7 @@
     This would show up in json as:<br>
     <code>{"ciao":"myNameIsFederico", "test":"myNameIsBoh", "uwu":"[VAR VALUE]"}</code><br><br>
     So we can immediately generalize:<br>
-    <code>|[VALUE (string without ')] of [VALUE (string|var)] && [VALUE (STRING)] of [VALUE (string|var)] && .... |</code>
+    <code>|[VALUE (string without ')] as [VALUE (string|var)] && [VALUE (STRING)] as [VALUE (string|var)] && .... |</code>
     <h3>Access</h3>
     To access an array we recommend the <a href='/docs/functions/put'>put</a> function to insert a value and <a href='/docs/functions/take'>take</a> to extract it
    </div>
